@@ -1,6 +1,6 @@
 # Escolha Restaurante
 
-- 1 - Todos os dados são salvos em memória utlizando uma classe Singleton que simula um banco de dados. Quand um singleton é inicializado é criado uma instance desse objeto, nos próximos acessos é retornado a mesma instância.
+- 1 - Todos os dados são salvos em memória utlizando uma classe Singleton que simula um banco de dados. Quando um singleton é inicializado é criado uma instanca desse objeto, nos próximos acessos é retornado a mesma instância.
 
 - 2 - Todos os casos abordados fora resolvidos com consultas LINQ.
 
