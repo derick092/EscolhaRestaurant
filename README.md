@@ -4,6 +4,7 @@
 
 
     public class FakeDB
+    
     {
         private static FakeDB dbInstance;
 
